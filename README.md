@@ -38,23 +38,28 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://files.svgcdn.io/logos/figma.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://files.svgcdn.io/vscode-icons/file-type-affinitydesigner.svg" height="40" alt="affinity designer logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://files.svgcdn.io/skill-icons/photoshop.svg" height="40" alt="PS logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://files.svgcdn.io/logos/adobe-illustrator.svg" height="40" alt="AI logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://files.svgcdn.io/logos/adobe-xd.svg" height="40" alt="XD logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://files.svgcdn.io/skill-icons/html.svg" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://files.svgcdn.io/skill-icons/css.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://files.svgcdn.io/skill-icons/javascript.svg" height="40" alt="JS logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://files.svgcdn.io/logos/react.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://files.svgcdn.io/skill-icons/nextjs-dark.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://files.svgcdn.io/simple-icons/openai.svg" height="40" alt="openai logo"  />
+  <img width="12" />
 </div>
 
 ###
